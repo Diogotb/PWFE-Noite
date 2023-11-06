@@ -7,10 +7,9 @@ import { Vaga } from '../model/vaga.model';
 @Injectable({
   providedIn: 'root',
 })
-
 export class VagaService {
   private apiUrl = 'http://localhost:3000/vagas'; // Caminho para o arquivo JSON
-  
+
   constructor(private http: HttpClient) {}
   // Obtém a lista de vagas a partir do arquivo JSON
   getVagas(): Observable<Vaga[]> {
