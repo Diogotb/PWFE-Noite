@@ -16,9 +16,12 @@ header img{
 .hamburger{
     display: none;
 }
+<<<<<<< HEAD
 .menuhb{
     display: none;
 }
+=======
+>>>>>>> 39a011db956b57f80c78f72814ca7526a6216430
 .menu{
     width: 50%;
     display: flex;
@@ -33,6 +36,7 @@ header img{
 footer{
     width: 100%;
     height: 10vh;
+<<<<<<< HEAD
     background-color: gray;
     position: fixed;
     right: 0;
@@ -49,3 +53,10 @@ footer{
         display: inline;
     }
 }
+=======
+    background-color: black;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+>>>>>>> 39a011db956b57f80c78f72814ca7526a6216430
