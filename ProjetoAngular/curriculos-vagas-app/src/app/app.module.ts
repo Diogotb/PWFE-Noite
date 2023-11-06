@@ -8,8 +8,8 @@ import { AppComponent } from './app.component';
 import { InicioComponent } from './view/inicio/inicio.component';
 import { CurriculosComponent } from './view/curriculos/curriculos.component';
 import { VagasComponent } from './view/vagas/vagas.component';
-import { FooterComponent } from './basic/footer/footer.component';
-import { HeaderComponent } from './basic/header/header.component';
+import { FooterComponent } from './view/basic/footer/footer.component';
+import { HeaderComponent } from './view/basic/header/header.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { PainelVagasComponent } from './view/painel-vagas/painel-vagas.component';
 
