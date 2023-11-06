@@ -1,0 +1,11 @@
+.image-container{
+    background-color: black;
+    margin: 5px;
+    padding: 5px;   
+}
+/* Define o tamanho padrão para as imagens na galeria */
+.image-container img {
+    width: 150px; /* Define o tamanho desejado para as imagens */
+    height: 150px;
+    margin: 5px;
+    }
