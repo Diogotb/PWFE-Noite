@@ -5,7 +5,7 @@
       "nome": "Desenvolver FrontEnd Jr",
       "foto": "foto1.jpg",
       "descricao": "Trabalhar com HTML, CSS e JS",
-      "salario": "3500"
+      "salario": "5000"
     },
     {
       "id": 2,
@@ -27,6 +27,13 @@
       "foto": "foto4.jpg",
       "descricao": "Suporte Inicial de TI",
       "salario": "2500"
+    },
+    {
+      "id": "5",
+      "nome": "Suporte Junior",
+      "foto": "foto1.jpg",
+      "descricao": "suporte inicial",
+      "salario": "2000"
     }
   ],
   "curriculos": []
